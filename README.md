@@ -21,6 +21,8 @@ This project applies **machine learning regression models** to estimate insuranc
 - 🌐 Interactive Streamlit web application
 - 💰 Real-time insurance payment prediction
 
+---
+
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the repository
@@ -39,6 +41,7 @@ streamlit run app.py
 ### 4️⃣ Open in browser
 ```bash
 http://localhost:8501
+
 ---
 
 ## 🗂️ Project Structure
