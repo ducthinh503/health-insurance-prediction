@@ -30,33 +30,11 @@ This project applies **machine learning regression models** to estimate insuranc
 git clone https://github.com/your-username/health-insurance-prediction.git
 cd health-insurance-prediction
 
-### 2️⃣ Install dependencies
+### **2️⃣ Install dependencies**
 ```bash
 pip install -r requirements.txt
 
-### 3️⃣ Run the Streamlit app
-```bash
-streamlit run app.py
+### **3️⃣ Run the Streamlit app**
 
-### 4️⃣ Open in browser
-```bash
-http://localhost:8501
 
 ---
-
-## 🗂️ Project Structure
-
-```bash
-health-insurance-prediction/
-│
-├── app.py                    # Streamlit application
-├── requirements.txt          # Project dependencies
-│
-├── analysis_model.ipynb      # Data analysis & visualization
-├── modeling.ipynb            # Model training & evaluation
-│
-├── models/
-│   ├── scaler.pkl            # Trained feature scaler
-│   └── best_model.pkl        # Best trained ML model
-│
-└── README.md                 # Project documentation
