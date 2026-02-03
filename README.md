@@ -9,6 +9,7 @@ The project includes **data analysis, model training**, and a **Streamlit web ap
 
 Health insurance costs depend on multiple factors such as age, BMI, blood pressure, smoking habits, and medical conditions.  
 This project applies **machine learning regression models** to estimate insurance payment amounts and deploys the best model as a **web app**.
+achieve an R² score of 84%
 
 ---
 
