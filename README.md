@@ -34,6 +34,27 @@ This project applies **machine learning regression models** to estimate insuranc
 
 ---
 
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/ducthinh503/health-insurance-prediction.git
+cd health-insurance-prediction
+```
+### 2️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3️⃣ Run the Streamlit app
+```bash
+streamlit run app.py
+```
+### 4️⃣ Open in browser
+```bash
+http://localhost:8501
+```
+---
+
 ## 🗂️ Project Structure
 
 ```bash
