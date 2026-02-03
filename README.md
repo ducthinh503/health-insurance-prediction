@@ -27,6 +27,13 @@ This project applies **machine learning regression models** to estimate insuranc
 
 ![Exploratory Data Analysis](docs/eda.png)
 
+---
+
+## Web Application Interface
+![Web Application Interface](docs/demo.png)
+
+---
+
 ## 🗂️ Project Structure
 
 ```bash
